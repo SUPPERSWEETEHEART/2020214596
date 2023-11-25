@@ -3,14 +3,7 @@ package com.example.demo;
 public class eample3 {
     public static void main(String[] args) {
         // 创建一个整型数组
-        int[] myArray = {13, 28, 31, 43, 59, 62};
-
-        // 打印整个数组
-        System.out.print("Array: ");
-        for (int i = 0; i < myArray.length; i++) {
-            System.out.print(myArray[i] + " ");
-        }
-        System.out.println();
+        int[] myArray = {13, 48, 31, 63, 59, 62};
 
         // 冒泡排序（从小到大）
         for (int i = 0; i < myArray.length - 1; i++) {

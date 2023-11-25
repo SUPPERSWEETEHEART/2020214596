@@ -2,8 +2,7 @@ package com.example.demo;
 
 public class eample2 {
         public static void main(String[] args) {
-            // 创建一个整型数组
-            int[] myArray = {123, 23, 304, 45, 156};
+            int[] myArray = {3, 2, 34, 5, 76};
 
            // 计算数组元素累乘
         int product = 1;
